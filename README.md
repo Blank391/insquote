@@ -1,0 +1,2 @@
+# insquote
+inspirational quotes
